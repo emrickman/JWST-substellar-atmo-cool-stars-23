@@ -1,2 +1,5 @@
-Submit your abstract here:
-...
+---
+title: Abstract Submission
+layout: template
+filename: abstract-submission.md
+--- 
