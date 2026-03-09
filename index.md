@@ -4,7 +4,7 @@ layout: default
 
 ## Submit an abstract to give a talk here:
 
-[abstract submission](abstract-submission.html).
+[Abstract Submission](abstract-submission.html)
 
 # Scientific Rationale
 
