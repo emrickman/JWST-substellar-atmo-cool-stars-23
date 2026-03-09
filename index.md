@@ -2,7 +2,9 @@
 layout: default
 ---
 
-Go to [abstract submission](abstract-submission.html).
+## Submit an abstract to give a talk here:
+
+[abstract submission](abstract-submission.html).
 
 # Scientific Rationale
 
@@ -15,3 +17,5 @@ Even within the past year, results from JWST include the direct detection of the
 There are many ties to be made since access to new direct spectra of mass-benchmark brown dwarfs can be compared and contrasted with high resolution direct spectra from isolated brown dwarfs, enabling a new area of brown dwarf science to be explored.
 
 Furthermore, JWST has opened up a wavelength range (>3 micron) beyond what we are sensitive to from the ground that is fundamental in understanding the underlying properties of the coldest brown dwarfs and exoplanets, as never seen before. In the cases where ground-based observational facilities have the capability of observing in this wavelength range, they have been lacking in the spectral resolution and sensitivity required to deep dive into the atmospheric properties of the coldest substellar objects. The access to this wavelength range and spectral resolution continues to expose some of both the similarities and differences that exist in these cold substellar objects.
+
+Go to [abstract submission](abstract-submission.html).
