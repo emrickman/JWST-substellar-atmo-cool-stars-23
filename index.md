@@ -20,4 +20,15 @@ Furthermore, JWST has opened up a wavelength range (>3 micron) beyond what we ar
 
 Go to [abstract submission](abstract-submission.html).
 
+### Program
+
 The program will be posted here after abstracts are selected: [program](program.html).
+
+### Session Organizers
+
+This splinter session is being organized by:
+
+* Emily Rickman (ESA/STScI)
+* Daniella Bardalez Gagliuffi (Amherst)
+* Elena Manjavacas (ESA/AURA-STScI)
+* Julien Girard (STScI)
