@@ -10,6 +10,10 @@ Each selected contributed talk will be allocated 12 minutes + 3 minutes for ques
 
 If you are not selected for a talk and/or you are presenting a poster, there is also an opportunity to give a poster-pop (1-2min talk) during the splinter session.
 
-Submit your abstract [here](https://forms.gle/Z8KQ4SSzjCrB1Fd86).
+### Abstracts are due March 31st, 2026. 
+
+We will aim to inform abstract decisions ahead of the early registration deadline (April 9th).
+
+### Submit your abstract [HERE](https://forms.gle/Z8KQ4SSzjCrB1Fd86).
 
 [back](./)
