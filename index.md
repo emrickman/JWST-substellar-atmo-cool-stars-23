@@ -2,10 +2,6 @@
 layout: default
 ---
 
-## Submit an abstract to give a talk here:
-
-Abstract submission is now closed and the program will be announced shortly.
-
 # Scientific Rationale
 
 This session aims to bring brown dwarf and exoplanet scientists together to capture a full synergetic picture of substellar atmospheres of both brown dwarf companions and exoplanets, as well as isolated brown dwarfs, to share what our current understanding is based on recent JWST results, and what developments are necessary in the future to address unanswered questions.
@@ -20,7 +16,7 @@ Furthermore, JWST has opened up a wavelength range (>3 micron) beyond what we ar
 
 ### Program
 
-The program will be posted here after abstracts are selected: [program](program.html).
+The program is available to view here: [program](program.html).
 
 ### Session Organizers
 
