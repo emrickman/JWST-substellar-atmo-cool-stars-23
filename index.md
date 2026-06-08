@@ -10,7 +10,7 @@ The program is available to view here: [program](program.html).
 
 If you are presenting a poster at Cool Stars 23 that is relevant to this splinter session topic, then we have slots available to give a 1-2min poster pop talk during the session (NB: the timing is an estimated range that will be finalized depending on the number of requests we receive). Please provide a single slide (PDF) that will be shown during your quick talk to advertise to participants to visit your poster during the scheduled poster sessions/coffee breaks. 
 
-Slide upload here: https://forms.gle/249cewGRNc7ThucRA 
+[Slide upload here](https://forms.gle/249cewGRNc7ThucRA)
 
 # Scientific Rationale
 
