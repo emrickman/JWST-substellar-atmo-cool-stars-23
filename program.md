@@ -10,13 +10,13 @@ Each contributed talk will be 12 min + 3 min for questions, and each poster pop 
 
 ### Contributed Talks
 
-14:00	
-**Linking Variability and Atmospheric Structure in the Benchmark Brown Dwarf Binary WISE 1049AB**
-Natalia Oliveros Gomez, Johns Hopkins University
+14:00	\
+**Linking Variability and Atmospheric Structure in the Benchmark Brown Dwarf Binary WISE 1049AB** \
+Natalia Oliveros Gomez, Johns Hopkins University \
 
-14:15	
-**Interpreting the Coldest Atmospheres: Insights from Sonora Flame Skimmer and H2O/NH3 Cloud Modeling**
-James Mang, University of Texas at Austin
+14:15	\
+**Interpreting the Coldest Atmospheres: Insights from Sonora Flame Skimmer and H2O/NH3 Cloud Modeling** \
+James Mang, University of Texas at Austin \
 
 14:30	
 **To the End of the IMF: JWST/NIRSpec Observations of Free-Floating Jupiter Mass Objects in NGC 2024**
