@@ -6,12 +6,6 @@ layout: default
 
 The program is available to view here: [program](program.html).
 
-### Poster Pops
-
-If you are presenting a poster at Cool Stars 23 that is relevant to this splinter session topic, then we have slots available to give a 1-2min poster pop talk during the session (NB: the timing is an estimated range that will be finalized depending on the number of requests we receive). Please provide a single slide (PDF) that will be shown during your quick talk to advertise to participants to visit your poster during the scheduled poster sessions/coffee breaks. 
-
-[Slide upload here](https://forms.gle/249cewGRNc7ThucRA)
-
 # Scientific Rationale
 
 This session aims to bring brown dwarf and exoplanet scientists together to capture a full synergetic picture of substellar atmospheres of both brown dwarf companions and exoplanets, as well as isolated brown dwarfs, to share what our current understanding is based on recent JWST results, and what developments are necessary in the future to address unanswered questions.
