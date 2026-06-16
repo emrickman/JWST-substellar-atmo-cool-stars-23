@@ -10,19 +10,24 @@ Each contributed talk will be 12 min + 3 min for questions, and each poster pop 
 
 ### Contributed Talks
 
-14:00	**Linking Variability and Atmospheric Structure in the Benchmark Brown Dwarf Binary WISE 1049AB**
+14:00	
+**Linking Variability and Atmospheric Structure in the Benchmark Brown Dwarf Binary WISE 1049AB**
 Natalia Oliveros Gomez, Johns Hopkins University
 
-14:15	**Interpreting the Coldest Atmospheres: Insights from Sonora Flame Skimmer and H2O/NH3 Cloud Modeling**
+14:15	
+**Interpreting the Coldest Atmospheres: Insights from Sonora Flame Skimmer and H2O/NH3 Cloud Modeling**
 James Mang, University of Texas at Austin
 
-14:30	**To the End of the IMF: JWST/NIRSpec Observations of Free-Floating Jupiter Mass Objects in NGC 2024**
+14:30	
+**To the End of the IMF: JWST/NIRSpec Observations of Free-Floating Jupiter Mass Objects in NGC 2024**
 Matthew De Furio, University of Texas at Austin
 
-14:45	**Solar System Scale super-Jupiters are Metal Rich**
+14:45	
+**Solar System Scale super-Jupiters are Metal Rich**
 William Balmer, Johns Hopkins University
 
-15:00	**The Atmospheric, Disk, and Accretion Properties of 6 ""Sextuplet"" Brown Dwarfs in Chamaeleon**
+15:00	
+**The Atmospheric, Disk, and Accretion Properties of 6 ""Sextuplet"" Brown Dwarfs in Chamaeleon**
 Kate Follette, Amherst College
 
 15:15	
