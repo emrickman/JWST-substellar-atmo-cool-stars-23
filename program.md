@@ -4,10 +4,8 @@ layout: default
 
 # Program
 
-The splinter session will take place on Thursday, June 18th from 14:00 to 17:30.
+The splinter session will take place on Thursday, June 18th, from 14:00 to 17:30.
 
-Each contributed talk will be 12min + 3min for questions.
+Each contributed talk will be 12 min + 3 min for questions, and each poster pop will be a 2 min talk.
 
-![program](session_program.png)
-
-If you are not selected for a talk and are presenting a poster instead, there will be an opportunity to give a short (1-2min) poster pop.
+![program](updated_session_program.png)
