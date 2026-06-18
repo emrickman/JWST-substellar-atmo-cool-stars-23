@@ -91,6 +91,9 @@ Isabel Rebollido, *Centro de Astrobiología (CAB-CSIC)*
 **petrafit: Rapid Silicate Cloud Identification in Substellar and Exoplanet Atmospheres** \
 Melanie Rowland, *American Museum of Natural History*
 
+**Probing the Atmospheres of Low Metallicity L type Brown Dwarfs in Euclid DR1** \
+Nafise Sedighi, *Instituto de Astrofísica de Canarias*
+
 **On the magnetodynamics of zonal band formation in substellar atmospheres** \
 Craig Stark, *University of Glasgow*
 
